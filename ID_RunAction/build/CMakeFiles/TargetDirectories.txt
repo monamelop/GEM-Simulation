@@ -1,0 +1,8 @@
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/install/strip.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/install/local.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/EXAMPLE.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/rebuild_cache.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/id.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/edit_cache.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/list_install_components.dir
+/home/monalisa/Documents/Geant4/geant4.10.04/examples/ID_RunAction/build/CMakeFiles/install.dir
